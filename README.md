@@ -1,6 +1,6 @@
 # Policy-based Reinforcement Learning Methods
 
-## Discrete action space:
+## Discrete Action Space:
 
   1. REINFORCE (Discounted Reward)
   
@@ -13,7 +13,7 @@
   5. Actor-Critic with Prioritized Experience Replay (Average Reward)
   
 
-## Continuous action space(Discounted Reward):
+## Continuous Action Space (Discounted Reward):
 
   1.REINFORCE with linear approximators
   
