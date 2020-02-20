@@ -1,7 +1,5 @@
 # Policy-based Reinforcement Learning Methods
-
 ## Discrete Action Space:
-
   1. REINFORCE (Discounted Reward)
   
   2. REINFORCE with Baseline (Discounted Reward)
@@ -14,7 +12,6 @@
   
 
 ## Continuous Action Space (Discounted Reward):
-
   1.REINFORCE with linear approximators
   
   2.REINFORCE with nonlinear approximators
