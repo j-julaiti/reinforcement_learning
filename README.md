@@ -1,5 +1,5 @@
 # Policy-based Reinforcement Learning Methods
-
+The required packages are listed in the environment.yml, the python version is 3.6.10.
 
 ## Discrete Action Space:
 
